@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" />
+<img align="right" height=200px alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" />
 
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
 - 🔭 I’m currently working on ...
