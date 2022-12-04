@@ -29,4 +29,8 @@ equipo, dedicación y autonomía.
 <h2>Tecnologias</h2>
 <div><img align="left" height=50px alt="GIF" src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" /></div>
 <div><img align="left" height=50px alt="GIF" src="https://miro.medium.com/max/1400/0*RKICUYO863Mu_2mX.png" /></div>
+<div><img align="left" height=50px alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" /></div>
+<div><img align="left" height=50px alt="GIF" src="https://carlosazaustre.es/images/como-funciona-redux-conceptos-basicos/logo_redux.png" /></div>
+<div><img align="left" height=50px alt="GIF" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" /></div>
+<div><img align="left" height=50px alt="GIF" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" /></div>
 
