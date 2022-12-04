@@ -8,17 +8,6 @@ varias tecnologías como Javascript,
 Typescript, NextJs, NodeJs, React,
 Redux, SQL, Prisma entre otros
 frameworks.
-Estuve en un equipo de trabajo
-desarrollando una página web donde
-hubo muy buena comunicación,
-organización y repartición de las
-responsabilidades, donde adquirí
-experiencia en el desarrollo y en el
-trabajo en equipo y el resultado de
-este proyecto fue excelente.
-Con resolución de problemas,
-aprendizaje rápido, trabajo en
-equipo, dedicación y autonomía.
 </p>
 
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
