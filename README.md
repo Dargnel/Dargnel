@@ -27,11 +27,6 @@ equipo, dedicación y autonomía.
 
 
 <h2>Tecnologias</h2>
-<div><img align="right" height=50px width=50px alt="GIF" src="[https://images8.alphacoders.com/115/thumb-1920-1156488.png](https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.png)" /></div>
-<!-- <div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div> -->
+<div><img align="right" height=50px width=50px alt="GIF" src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" /></div>
+<div><img align="right" height=50px width=50px alt="GIF" src="https://miro.medium.com/max/1400/0*RKICUYO863Mu_2mX.png" /></div>
+
