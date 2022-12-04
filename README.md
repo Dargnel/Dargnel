@@ -1,5 +1,5 @@
 
-![About Me](https://raw.githubusercontent.com/Dargnel/Dargnel/master/bio.gif)
+![About Me](https://raw.githubusercontent.com/martins-rafael/Dargnel/master/bio.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
