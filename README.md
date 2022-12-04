@@ -31,5 +31,6 @@ equipo, dedicación y autonomía.
 <div><img align="left" height=50px alt="GIF" src="https://carlosazaustre.es/images/como-funciona-redux-conceptos-basicos/logo_redux.png" /></div>
 <div><img align="left" height=50px alt="GIF" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" /></div>
 <div><img align="left" height=50px alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" /></div>
+<div><img align="left" height=50px alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /></div>
 
 
