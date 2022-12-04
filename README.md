@@ -1,7 +1,4 @@
 
-
-
-<div><img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /></div>
 <div><img align="right" height=250px width=100% alt="GIF" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47eqj6eom9fm4002wc0a5x8y5psb35eaqfkf3j970x&rid=giphy.gif&ct=g" /></div>
 
 <p>Desarrollador web Full Stack con
