@@ -3,6 +3,8 @@
 
 <div>  <img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" />       </div>
 </br>
+</br>
+</br>
 <h2>Desarrollador web Full Stack con
 experiencia trabajando
 individualmente como en grupo en
