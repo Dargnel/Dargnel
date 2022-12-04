@@ -2,10 +2,8 @@
 
 
 <div>  <img align="right" height=250px width=100% alt="GIF" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" />       </div>
-<br>
-<br>
-<br>
-<h2>Desarrollador web Full Stack con
+
+<p>Desarrollador web Full Stack con
 experiencia trabajando
 individualmente como en grupo en
 varias tecnologías como Javascript,
@@ -23,7 +21,7 @@ este proyecto fue excelente.
 Con resolución de problemas,
 aprendizaje rápido, trabajo en
 equipo, dedicación y autonomía.
-<h2>
+</p>
 
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
 
