@@ -9,7 +9,7 @@ with various technologies like Javascript, TypeScript, NextJs, NodeJs, React, Re
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
 
 
-<h2>Tecnologias</h2>
+<h2>Technologies</h2>
 <div><img align="left" height=50px alt="GIF" src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" /></div>
 <div><img align="left" height=50px alt="GIF" src="https://miro.medium.com/max/1400/0*RKICUYO863Mu_2mX.png" /></div>
 <div><img align="left" height=50px alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" /></div>
