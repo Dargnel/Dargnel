@@ -1,13 +1,9 @@
 
 <div><img align="right" height=250px width=100% alt="GIF" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47eqj6eom9fm4002wc0a5x8y5psb35eaqfkf3j970x&rid=giphy.gif&ct=g" /></div>
 
-<p>Desarrollador web Full Stack con
-experiencia trabajando
-individualmente como en grupo en
-varias tecnologías como Javascript,
-Typescript, NextJs, NodeJs, React,
-Redux, SQL, Prisma entre otros
-frameworks.
+<h2>About me</h2>
+<p>Full Stack web developer with experience working in groups
+with various technologies like Javascript, TypeScript, NextJs, NodeJs, React, Redux, SQL, Prisma among other frameworks
 </p>
 
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
