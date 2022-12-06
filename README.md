@@ -8,6 +8,8 @@ with various technologies like Javascript, TypeScript, NextJs, NodeJs, React, Re
 
 ![Dargnel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dargnel&show_icons=true&theme=radical)
 
+<h2>Contact 📫<h2>
+hectorivang2000@gmail.com
 
 <h2>Technologies</h2>
 <div><img align="left" height=50px alt="GIF" src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" /></div>
